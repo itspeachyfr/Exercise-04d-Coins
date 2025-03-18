@@ -2,7 +2,7 @@
 
 ## Implementation
 
-Final update
+Final update : Spider-man the Wall crawler is a fun test for a 2D animated platformer with coin collection and enemies you can fight and collect points from.
 
 ## References
 
