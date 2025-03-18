@@ -2,7 +2,7 @@
 
 ## Implementation
 
-coins yay!
+Final update
 
 ## References
 
